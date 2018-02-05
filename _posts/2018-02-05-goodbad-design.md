@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Good Design, Bad Design
+image: /img/goodbad-design/BrooksDesirePath.jpg
 ---
 
 ## Bad Design
