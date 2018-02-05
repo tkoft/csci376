@@ -66,9 +66,9 @@ From a sidewalk between Morgan House and Jesup Hall toward Lassel Gymnasium; you
 
 In the case of the desire path near Lassell, the absence of intentional walkways is actually quite a safety hazard.  Students regularly cross Spring St by stepping over or through snow banks and around parked cars into oncoming traffic, which isn't expecting pedestrians crossing at that location.  
 
-One desire path that (to the vocal delight of many students) was "fulfilled" this year is the path from Paresky's left-side door on it's Eastern face towards Sawyer Library. The numerous exclamations of joy and satisfaction I've heard this year since it's construction is a testament to how good design is appreciated, and bad design often isn't even known until a better one comes along.
+One desire path that (to the vocal delight of many students) was "fulfilled" this year is the path from Paresky's right-side door on it's Eastern face towards Sawyer Library. The numerous exclamations of joy and satisfaction I've heard this year since its construction is a testament to how good design is appreciated, and a bad design often isn't even known until a better one comes along.
 
-Here is the location of the path before construction this past summer; in the snow, the path is obvious, but even the grass has withered where many have tread in search of shorter commutes between these two buildings.
+Here is the location of the path before construction this past summer; in the snow, the path is obvious, but even on satellite images from outer space the grass has noticable withered where many have tread in search of shorter commutes between these two buildings.
 
 ![Old Sawyer desire path]({{ site.url }}/img/goodbad-design/OldSawyerPath.PNG)
 
@@ -76,4 +76,4 @@ Today, there is a sidewalk, beautifully smooth and straight, regularly shoveled 
 
 ![Sawyer desire path fulfilled]({{ site.url }}/img/goodbad-design/SawyerDesirePathFulfilled.jpg)
 
-I think our campus's developers and landscapers should take note during the winter season to see where these desire paths show themselves. It would do so much for making our campus more accessible and convenient.  
+I think our campus's developers and landscapers should take note during the winter season to see where these desire paths show themselves. It would do so much for making our campus more accessible and convenient.
