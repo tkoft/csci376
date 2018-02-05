@@ -47,9 +47,9 @@ Oh well, we'll just throw up a sign.
 
 ## Good Design
 
-My selected example of "good design" revolves around a phenomenon known as ["desire paths"](https://en.wikipedia.org/wiki/Desire_path). There's actually a subreddit with a peculiar fascination with these things, and they're an excellent example of a natural indicator of a design need that can be met.
+My selected example of "good design" revolves around a phenomenon known as ["desire paths"](https://en.wikipedia.org/wiki/Desire_path). There's actually a [subreddit](http://www.reddit.com/r/DesirePaths) with a peculiar fascination in these things, and they're an excellent example of a natural indicator of a design need that can be met.
 
-![Desire path subreddit]({{ site.url }}/img/goodbad-design/RedditDesirePath.png)
+![Desire path subreddit]({{ site.url }}/img/goodbad-design/RedditDesirePath.PNG)
 
 
 College campuses feature these paths frequently, and the snow here in Williamstown makes it especially clear when foot traffic gravitates towards a missing path. Here are a couple examples of "unfulfilled" desire paths on our campus.
@@ -68,7 +68,7 @@ One desire path that (to the vocal delight of many students) was "fulfilled" thi
 
 Here is the location of the path before construction this past summer; in the snow, the path is obvious, but even the grass has withered where many have tread in search of shorter commutes between these two buildings.
 
-![Old Sawyer desire path]({{ site.url }}/img/goodbad-design/OldSawyerPath.jpg)
+![Old Sawyer desire path]({{ site.url }}/img/goodbad-design/OldSawyerPath.PNG)
 
 Today, there is a sidewalk, beautifully smooth and straight, regularly shoveled and salted in the winter.  I've taken a skateboard from the front door of Paresky straight towards Sawyer without having to steer; it was fun.
 
