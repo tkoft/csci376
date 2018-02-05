@@ -8,7 +8,7 @@ I've wasted enough time trying to get Beautiful Jekyll to build properly as a gi
 
 ## Bad Design
 
-Let's start with the bad news. I've always been irked by a few bad design quirks around campus, but one of my favorites is definitely a recurrent trend of "things not fitting into the trash cans they're designed for". Here's the standard diningware return receptacle found in various buildings around Williams, and a plate from Mission dining hall (one of three dining locations on campus):
+Let's start with the bad news. I've always been irked by a few bad design quirks around campus, but one of my favorites is definitely a recurring trend of "things not fitting into the trash cans they're designed for". Here's the standard diningware return receptacle found in various buildings around Williams, and a plate from Mission dining hall (one of three dining locations on campus):
 
 ![Plate return fail]({{ site.url }}/img/goodbad-design/PlateMisfit.jpg)
 
@@ -24,9 +24,9 @@ The thing is, containers have already been designed to hell in almost every conc
 
 The second bin is a little more understandable, but still an example of overdesign.  The hole in this lid clearly is supposed to accept bottles and cans and other cylindrical containers, but 1. it doesn't seem to do so successfully and 2. I've seen students stuff all sorts of plastic and metal disposables into that small circular hole anyway.
 
-Half the time, a user of one of these bins just ends up opening the lid themselves. They're are a great example of how what's possibly the most disgned object ever in history--the container--can still be messed up today.
+Half the time, a user of one of these bins just ends up opening the lid themselves. They're are a great example of how what's possibly the most designed object ever in history--the container--can still be messed up today.
 
-### Honorable mentions
+### Honorable Mentions
 
 Here are some other notable "bad designs" I considered for this project.
 
