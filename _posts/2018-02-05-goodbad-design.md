@@ -4,6 +4,8 @@ title: Good Design, Bad Design
 image: /img/goodbad-design/BrooksDesirePath.jpg
 ---
 
+I've wasted enough time trying to get Beautiful Jekyll to build properly as a github page, so I'm just going to blindly commit things until things look good enough. Some of these images aren't rotated properly, so unfortunately you'll just have to crane your neck for now. I've also put both the "Good" and "Bad" part of this assignment on the same post, but I might separate them later and create a page for the whole assignment instead.  Let's get started!
+
 ## Bad Design
 
 Let's start with the bad news. I've always been irked by a few bad design quirks around campus, but one of my favorites is definitely a recurrent trend of "things not fitting into the trash cans they're designed for". Here's the standard diningware return receptacle found in various buildings around Williams, and a plate from Mission dining hall (one of three dining locations on campus):
