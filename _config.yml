@@ -23,9 +23,9 @@ description: By Gary Chen. Course projects and assignments for CSCI 376.
 
 # List of links in the navigation bar
 navbar-links:
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Assignments:
+    - Good Design Bad Design: "goodbad-design/"
+    - Project Proposal: "2018-02-12-proposal/"
   Author's home: "http://www.grchen.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)

@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Gary's Projects and Assignments
-subtitle: I am not a designer!  I am not a designer!  I am not a designer!
-use-site-title: true
+title: Good Design, Bad Design
+subtitle: Assignment 1 for CSCI 376
 ---
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.categories.goodbad-design %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+    <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+      {{ post.subtitle }}
+    </h3>
+    {% endif %}
     </a>
 
     <p class="post-meta">
