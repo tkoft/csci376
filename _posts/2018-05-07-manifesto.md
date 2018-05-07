@@ -39,8 +39,18 @@ Testing goes closely hand-in-hand with iterating, of course. There's often a gia
 
 ## Better Design for Some is Better Design for All
 
+An important attitude shift regarding accessible design that I had while studying it this semester was that designing a product to accommodate as many people as possible isn't just a formality or a nicety.  We shouldn't think of accessible design as an afterthought to tackle after the main userbase has been sated; rather **accessible design benefits all users** and encourages you as a creator to think more stringently about how your design is used by all types of audiences.
 
+One actionable takeaway I definitely want to implement in my own life is writing descriptive alt-text for any images I upload online, whether it's on Facebook, on my personal website, or on something for work. I had never thought about how much difference it can make to someone using a screen reader, but now that we talked about it it's quite obvious and also would be something relatively easy to do for normal web users like me.
 
 ## Please Design Responsibly
 
+Ethics has been a surprisingly salient topic in my computer science studies, especially in AI and machine learning. Studying ethical computing from those perspectives is difficult though, as it's hard to align human values with mathematical constructs and processes at times. I think it makes a lot more sense to think about ethics from an HCI perspective, about usability and human-centered design. 
+
+Consider [this article on Amazon's "last mile" workers from our readings](https://gizmodo.com/amazons-last-mile-1820451224) for example. We could think about how Amazon could make its sorting and shipping systems more efficient through some smart-data-learning-AI-cloud-technology solution of sorts.  But thinking about efficiency-maximization at the expense of the human individual is what led to the situation in the first place! Instead, thinking about delivery drivers as *users* might give us better insights as to how the system can be designed to support them in their jobs.  
+
+A lot of discrimination in data and machine learning comes from biases in the data collection phase.  Surprisingly, there are ways to [mitigate this algorithmically at data processing time](http://cs.williams.edu/~andrea/cs374/Articles/feldman.pdf). What might make more sense, however, is how we can rethink the systems that lead to harmful datasets being constructed to be more fair.  Designers are perhaps the best people in the product development process to think about ethics and social responsibility, so its important that people who engage in design have a strong grasp on what problems are important and how they can be addressed before it's too late.
+
 ## Conclusion
+
+**to come!!**
